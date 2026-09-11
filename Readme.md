@@ -12,3 +12,22 @@ A DIY wind tunnel to test test model rockets parts like fins and nose cone. This
 
 ### 1. Front Air Intake 
 
+![front_air_intake](Readme Resource\front_air_intake.png)
+
+**Specifications** 
+- `203.2*203.2*100mm` (WxHxL)
+- `10mm` fillet
+- `20mm` diameter of haexagons
+- `70mm` long haxagonal pattern
+- `2.033mm` border lines of hexagonal pattern
+- Material - `PETG 3D Printed`
+
+### 2. Main Testing Area
+
+![main_testing_rig](Readme Resource\main_testing_rig.png)
+
+**Specifications**
+- `203.2*203.2*304.8mm` (WxHxL)
+- `10mm` fillet
+- `5mm` border
+- Material - MDF sheet and Clear Polycarbonate
