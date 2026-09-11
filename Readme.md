@@ -12,7 +12,7 @@ A DIY wind tunnel to test test model rockets parts like fins and nose cone. This
 
 ### 1. Front Air Intake 
 
-![front_air_intake](<Readme Resource\front_air_intake.png>)
+![front_air_intake](<Readme Resource/front_air_intake.png>)
 
 **Specifications** 
 - `203.2*203.2*100mm` (WxHxL)
@@ -24,7 +24,7 @@ A DIY wind tunnel to test test model rockets parts like fins and nose cone. This
 
 ### 2. Main Testing Area
 
-![main_testing_rig](<Readme Resource\main_testing_rig.png>)
+![main_testing_rig](<Readme Resource/main_testing_rig.png>)
 
 **Specifications**
 - `203.2*203.2*304.8mm` (WxHxL)
