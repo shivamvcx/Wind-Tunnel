@@ -31,3 +31,20 @@ A DIY wind tunnel to test test model rockets parts like fins and nose cone. This
 - `10mm` fillet
 - `5mm` border
 - Material - MDF sheet and Clear Polycarbonate
+
+### 3. Back Exhaust
+
+![exhaust_fan](<Readme Resource/exhaust_fan.png>)
+
+**Specifications**
+- Sweep - `150mm`
+- Duct Size - `240mm`
+- `47D x 25W x 46H` Centimeters
+
+### 4. Mist Box
+
+![mist_example](<Readme Resource/mist_example.png>)
+
+> This is not my design, i'll add my own design once i design it in CAD. This is just a example design.
+
+- It uses a mist module to generate mist from water and feed it into testing rig passing it through haxagonal pattern first.
