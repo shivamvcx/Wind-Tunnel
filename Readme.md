@@ -45,6 +45,6 @@ A DIY wind tunnel to test test model rockets parts like fins and nose cone. This
 
 ![mist_example](<Readme Resource/mist_example.png>)
 
-> This is not my design, i'll add my own design once i design it in CAD. This is just a example design.
+> Example Design
 
 - It uses a mist module to generate mist from water and feed it into testing rig passing it through haxagonal pattern first.
