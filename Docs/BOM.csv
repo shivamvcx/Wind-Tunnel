@@ -1,12 +1,15 @@
-ITEM,Quantity,Price
-PETG 1kg,1,900
-Mist Module,1,200
-Led Strip 5v,1,400
-MDF Sheets (pack of 2),1,300
-Clear Polycarbonate (pack of 2),1,300
-Black Primer paint,1,550
-Matte Black Spray Paint,1,1200
-Rocker Switch for LED,1,30
-Exhaust Fan,1,1500
-Micro USB B to USB A,1,50
-Est. Total,,        ~5700
+ITEM,Quantity,Price (INR),Price (USD),Note,Link
+PETG 1kg,1,902,9.51,,https://robocraze.com/products/anycubic-petg-black-1kg-1-75mm-petg-3d-printer-filament?variant=67651507224800
+Mist Module,1,350,3.69,,https://robocraze.com/products/36mm-dc-24v-ultrasonic-mist-maker-humidifier-atomizer?variant=47599923200224
+Led Strip 5v,1,450,4.74,,https://www.amazon.in/gp/product/B079KF3J6D/ref=ox_sc_act_title_11?smid=A1DQO8V99FM5TW&psc=1
+MDF Sheets (pack of 2),1,300,3.16,,https://www.amazon.in/gp/product/B0F74DKYY3/ref=ox_sc_act_title_9?smid=AKC3WG4EIB4K4&psc=1
+Clear Polycarbonate (pack of 2),1,300,3.16,,https://www.amazon.in/gp/product/B0CQYS1RN6/ref=ox_sc_act_title_8?smid=AMUDUWK95XN00&psc=1
+Black Primer paint,1,550,5.8,First layer on MDF to prevent water mold on MDF sheets,https://www.amazon.in/gp/product/B08SQ7N312/ref=ox_sc_act_title_6?smid=A18WLTS0SXY58J&psc=1
+Matte Black Spray Paint,1,1200,12.65,Second layer on MDF to add matte finish to upper led strip doesnt reflect and block view from front,https://www.amazon.in/gp/product/B002BWOS7Q/ref=ox_sc_act_title_7?smid=A1AAS418AOI5M3&psc=1
+Exhaust Fan,1,1650,17.39,,https://www.amazon.in/gp/product/B0H5Q6CH5X/ref=ox_sc_act_title_3?smid=A265Y61RFTD8ZZ&psc=1
+Masking Tap,1,150,1.58,Applied during painting,https://www.amazon.in/gp/product/B0BX9W6K87/ref=ox_sc_act_title_10?smid=AJ6SIZC8YQDZX&psc=1
+Utility Knife,1,300,3.16,To cut MDF sheet,https://www.amazon.in/gp/product/B073SWWKWJ/ref=ox_sc_act_title_5?smid=AJ6SIZC8YQDZX&psc=1
+Vernier Caliper,1,1500,15.81,For measuring things ,https://www.amazon.in/gp/product/B0HBBJY363/ref=ox_sc_act_title_4?smid=AJ6SIZC8YQDZX&psc=1
+24V DC power supply (for mist module),1,500,5.27,,https://www.amazon.in/gp/product/B09B2QC5DG/ref=ox_sc_act_title_2?smid=A3U2TDQWP58CIY&psc=1
+Extension Board,1,1000,10.54,"It has 5 AC socket and some USB ports, Required to provide power to Mist Module, Exhaust Fan and LED strip simultaneously",https://www.amazon.in/gp/product/B0DWSQQB5S/ref=ox_sc_act_title_1?smid=A1WYWER0W24N8S&psc=1
+Total Cost,,~9200,~98,,
